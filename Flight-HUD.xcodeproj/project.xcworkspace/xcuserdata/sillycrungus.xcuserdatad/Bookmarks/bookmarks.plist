@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>2</string>
+					<key>EndingLineNumber</key>
+					<string>198</string>
+					<key>StartingColumnNumber</key>
+					<string>2</string>
+					<key>StartingLineNumber</key>
+					<string>198</string>
+					<key>Timestamp</key>
+					<string>762359548.887359</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>platform</string>
+					<key>payload</key>
+					<dict>
+						<key>base-id</key>
+						<string>macosx</string>
+						<key>relative-path</key>
+						<string>Developer/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__thread/thread.h</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>title</key>
+			<string>Error: Attempt to use a deleted function</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
