@@ -10,7 +10,7 @@
 #include <cstdlib>
 
 void clearScreen() {
-    for (int i = 0; i < 50; i++) {  // Print 50 blank lines
+    for (int i = 0; i < 50; i++) { 
         std::cout << "\n";
     }
     std::cout << std::flush;
